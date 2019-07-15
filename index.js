@@ -10,7 +10,7 @@ function Driver(name,age,experience){
   this.experience = experience;
 }
 
-function PickupLocation(name,age,experience){
+function PickupLocation(address,age,experience){
   this.name = name;
   this.age = age;
   this.experience = experience;
